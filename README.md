@@ -33,31 +33,18 @@
 <h3 align="left">📬 Connect with me:</h3>
 
 <p align="left">
-
-  <a href="https://x.com/ishaan___singh?s=11" target="_blank">
-
+  <a href="https://x.com/ishaan___singh?s=11">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-
   </a>
-
-  <a href="https://www.linkedin.com/in/ishaan-singh-0852a5387" target="_blank">
-
+  <a href="https://www.linkedin.com/in/ishaan-singh-0852a5387">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-
   </a>
-
-  <a href="https://kaggle.com/palakbhatnagar" target="_blank">
-
+  <a href="https://kaggle.com/palakbhatnagar">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-
   </a>
-
-  <a href="https://www.hackerrank.com/0231csml172" target="_blank">
-
+  <a href="https://www.hackerrank.com/0231csml172">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-
   </a>
-
 </p>
 
 <h2>🛠 Skills & Technologies</h2>
