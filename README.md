@@ -1,6 +1,6 @@
 <p align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=25&pause=1000&color=F7B536&center=true&width=435&lines=👋Hi%2C+I++am+Palak+Bhatnagar;Full+Stack+Developer;AI+%26+ML+Enthusiast;Creator%2C+Author+and+Mentor" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=25&pause=1000&color=F7B536&center=true&width=435&lines=👋Hi%2C+I++am+Ishaan+Singh;AI+ML+Engineer;AI+%26+ML+Enthusiast;Creator%2C+Author+and+Mentor" alt="Typing SVG" /></a>
 
 </p>
 
@@ -8,7 +8,7 @@
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/userupload/30832962/file/original-199091f9b19f067153ecd518321a3898.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=palakbhatnagar172&label=Profile%20views&color=0e75b6&style=flat" alt="palakbhatnagar172" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishaan-61&label=Profile%20views&color=0e75b6&style=flat" alt="ishaan-61" /> </p>
 
 - 🔭 I’m currently working on Machine Leaning, NLP, Deep Learning
 
@@ -18,15 +18,15 @@
 
 - 🤝 I’m looking for help for collaborating in hackathons
 
-- 👨‍💻 All of my projects are available at [https://github.com/PalakBhatnagar172](https://github.com/PalakBhatnagar172)
+- 👨‍💻 All of my projects are available at (https://github.com/ishaan-61)
 
 - 📝 I regularly write articles on [Notion](Notion)
 
 - 💬 Ask me about react, Web Development, Machine Learning
 
-- 📫 How to reach me palakbhatnagar0555@gmail.com
+- 📫 How to reach me cishaan61@gmail.com
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/palak-bhatnagar-361961277/](https://www.linkedin.com/in/palak-bhatnagar-361961277/)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact Code , Create, conquer...
 
@@ -34,21 +34,15 @@
 
 <p align="left">
 
-  <a href="https://twitter.com/palakbhatn7240" target="_blank">
+  <a href="https://x.com/ishaan___singh?s=11" target="_blank">
 
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
 
   </a>
 
-  <a href="https://linkedin.com/in/palakbhatnagar" target="_blank">
+  <a href="https://www.linkedin.com/in/ishaan-singh-0852a5387?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
 
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-
-  </a>
-
-  <a href="https://stackoverflow.com/users/palakbhatnagar" target="_blank">
-
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
 
   </a>
 
